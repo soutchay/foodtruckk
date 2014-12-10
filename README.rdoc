@@ -2,8 +2,9 @@
 
 This app is to locate food trucks and also vote for food trucks in your area. Plan to have the ability for users to vote for food trucks for lunch or dinner. Food trucks will be able to use this data to find out where they can have the most business. Customers will be able to keep track of food truck locations and indicate which food trucks they "Must Try".
 
+
 Using the following:  
-Rails 4.1.8
+// Rails 4.1.8
 Postgresql as the database
 Bower for dependencies such as AngularJS
 AngularJS for frontend
