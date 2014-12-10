@@ -4,10 +4,11 @@ This app is to locate food trucks and also vote for food trucks in your area. Pl
 
 
 Using the following:  
-'''
+
 Rails 4.1.8
+
+
 Postgresql as the database
 Bower for dependencies such as AngularJS
 AngularJS for frontend
 Rspec Rails 3.0.0 for testing
-'''
